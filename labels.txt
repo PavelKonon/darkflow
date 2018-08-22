@@ -1,4 +1,8 @@
-aeroplane
+car
+person
 bicycle
-bird
-boat
+motorcycle
+bus
+truck
+traffic light
+stop sign
