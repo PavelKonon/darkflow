@@ -2,7 +2,7 @@
 
 pip install Cython
 pip install numpy
-pip install tensorflow
+#pip install tensorflow
 pip install opencv-python
 python setup.py build_ext --inplace
 

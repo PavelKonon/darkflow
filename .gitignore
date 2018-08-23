@@ -5,7 +5,7 @@
 # Weight files
 bin/
 
-.idea/
+.idea
 
 # Sample image data
 sample_img/*.jpg
