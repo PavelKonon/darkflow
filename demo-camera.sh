@@ -12,3 +12,5 @@
 #./flow --model cfg/yolo.cfg --load bin/yolo.weights --labels labels.txt --demo webcam
 
 #./flow --model cfg/tiny-yolo-udacity.cfg --load 8987
+
+#gcloud compute copy-files tensorflow-3-vm:~/darkflow/ckpt/yolov2-car-7000.* ~/Downloads/ckpt --zone us-central1-c
